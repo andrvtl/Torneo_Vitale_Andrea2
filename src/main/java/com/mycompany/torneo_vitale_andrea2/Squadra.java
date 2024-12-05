@@ -9,5 +9,5 @@ package com.mycompany.torneo_vitale_andrea2;
  * @author B045_09
  */
 public class Squadra {
-    
+    /* Modifica per commit ramo "squadra" */
 }
