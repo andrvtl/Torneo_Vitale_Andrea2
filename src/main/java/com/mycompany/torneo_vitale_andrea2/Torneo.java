@@ -7,7 +7,9 @@ package com.mycompany.torneo_vitale_andrea2;
 
 /**
  *
- * @author B045_09
+ * @author Andrea Vitale
+ * @see scheda esercitazione
+ *
  */
 public class Torneo {
 
